@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/looking-houses.f3664e14.svg"
   },
   {
-    "revision": "c3c41070ebadaf983b30",
-    "url": "/propertycats/static/css/main.66f6268a.chunk.css"
+    "revision": "f2e3b4879309c6c26fc1",
+    "url": "/propertycats/static/css/main.6a6f11e0.chunk.css"
   },
   {
-    "revision": "c708a5fe7c8f67dcb683",
-    "url": "/propertycats/static/js/1.c708a5fe.chunk.js"
+    "revision": "8c670b6ec04f409217fa",
+    "url": "/propertycats/static/js/1.8c670b6e.chunk.js"
   },
   {
     "revision": "acc8f8852fe20b929cbe",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "1abe6d117ed7cf44656fcdd99d5bb46e",
     "url": "/propertycats/static/media/gustavo-zambelli-446813-unsplash.1abe6d11.jpg"
+  },
+  {
+    "revision": "c14d24c2738dd89ddfdcc11452d8761c",
+    "url": "/propertycats/static/media/line.c14d24c2.svg"
   },
   {
     "revision": "1c4c4c73544f177e01e33222bd9773dd",
@@ -60,8 +64,8 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/seller.982c32e8.svg"
   },
   {
-    "revision": "c3c41070ebadaf983b30",
-    "url": "/propertycats/static/js/main.c3c41070.chunk.js"
+    "revision": "f2e3b4879309c6c26fc1",
+    "url": "/propertycats/static/js/main.f2e3b487.chunk.js"
   },
   {
     "revision": "1e8f1a8b5d932b4ba746c4133af1a56c",
@@ -120,7 +124,7 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "c9a582f2cc121967c41bd85ec5cf9c1e",
+    "revision": "6a52ee32cc89103b7d680d438b4127a4",
     "url": "/propertycats/index.html"
   }
 ];
