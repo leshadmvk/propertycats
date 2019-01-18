@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f3664e14cbde733a55eb9d2be9343957",
-    "url": "/propertycats/static/media/looking-houses.f3664e14.svg"
+    "revision": "982c32e86ef63605983dd9d298f18364",
+    "url": "/propertycats/static/media/seller.982c32e8.svg"
   },
   {
-    "revision": "93926fa3456eb3832d9f",
-    "url": "/propertycats/static/css/main.986c9545.chunk.css"
+    "revision": "f4fc7bf163506aa19bf8",
+    "url": "/propertycats/static/css/main.52e5ffea.chunk.css"
   },
   {
-    "revision": "8c670b6ec04f409217fa",
-    "url": "/propertycats/static/js/1.8c670b6e.chunk.js"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/propertycats/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "d8984517be89cdc1569f",
+    "url": "/propertycats/static/js/1.d8984517.chunk.js"
   },
   {
     "revision": "acc8f8852fe20b929cbe",
@@ -60,12 +64,12 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/pound-sterling.8ae60279.svg"
   },
   {
-    "revision": "982c32e86ef63605983dd9d298f18364",
-    "url": "/propertycats/static/media/seller.982c32e8.svg"
+    "revision": "f4fc7bf163506aa19bf8",
+    "url": "/propertycats/static/js/main.f4fc7bf1.chunk.js"
   },
   {
-    "revision": "93926fa3456eb3832d9f",
-    "url": "/propertycats/static/js/main.93926fa3.chunk.js"
+    "revision": "f3664e14cbde733a55eb9d2be9343957",
+    "url": "/propertycats/static/media/looking-houses.f3664e14.svg"
   },
   {
     "revision": "1e8f1a8b5d932b4ba746c4133af1a56c",
@@ -120,11 +124,11 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/instagram.0c13e33e.svg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/propertycats/static/media/logo.5d5d9eef.svg"
+    "revision": "d8984517be89cdc1569f",
+    "url": "/propertycats/static/css/1.ab2ff326.chunk.css"
   },
   {
-    "revision": "af7636f6b1af8aa24889ff6b6f23be28",
+    "revision": "13f184fde040eab7c9e8d96bcbd4c218",
     "url": "/propertycats/index.html"
   }
 ];
