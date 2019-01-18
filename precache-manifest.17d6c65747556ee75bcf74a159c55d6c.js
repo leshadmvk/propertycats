@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/looking-houses.f3664e14.svg"
   },
   {
-    "revision": "e71e36c347a4c2826c4d",
-    "url": "/propertycats/static/css/main.a2b28084.chunk.css"
+    "revision": "a166242717ad23ac6aa5",
+    "url": "/propertycats/static/css/main.f18ec16f.chunk.css"
   },
   {
     "revision": "8c670b6ec04f409217fa",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/seller.982c32e8.svg"
   },
   {
-    "revision": "e71e36c347a4c2826c4d",
-    "url": "/propertycats/static/js/main.e71e36c3.chunk.js"
+    "revision": "a166242717ad23ac6aa5",
+    "url": "/propertycats/static/js/main.a1662427.chunk.js"
   },
   {
     "revision": "1e8f1a8b5d932b4ba746c4133af1a56c",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "4f1913fbedf84c35b4ed961e0a5c30c9",
+    "revision": "9597a9cfe8b2e6f92dfda121d3aefda5",
     "url": "/propertycats/index.html"
   }
 ];
