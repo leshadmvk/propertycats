@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/logo-5ead14393a.ee1a218d.svg"
   },
   {
-    "revision": "f8afce3df92903a98f80",
-    "url": "/propertycats/static/css/main.37368562.chunk.css"
+    "revision": "49df9e017a4b1e4d72e8",
+    "url": "/propertycats/static/css/main.7c1232ac.chunk.css"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/propertycats/static/media/The_Guardian.ba4e796e.svg"
   },
   {
-    "revision": "f8afce3df92903a98f80",
-    "url": "/propertycats/static/js/main.f8afce3d.chunk.js"
+    "revision": "49df9e017a4b1e4d72e8",
+    "url": "/propertycats/static/js/main.49df9e01.chunk.js"
   },
   {
     "revision": "0bacb8e87008fea360b8fa52849de7b7",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/propertycats/static/css/1.7f0ea830.chunk.css"
   },
   {
-    "revision": "124f1decc44a09d221cf45ab3688386d",
+    "revision": "7f6dd3a9241714e5e77c4601ab4a0d9a",
     "url": "/propertycats/index.html"
   }
 ];
